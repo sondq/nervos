@@ -12,14 +12,15 @@
 
 Deploy transaction hash:
 
+
 ```bash
-0x4fE0479F917B981A063Aa5372FEBCE5e50cC969A
+0xd96f2bc883c04383d25f1496694f263d4db33fe5feadc17fea0f04f4ddbfae54
 ```
 
 Deployed contract address:
 
 ```bash
-0xd96f2bc883c04383d25f1496694f263d4db33fe5feadc17fea0f04f4ddbfae54
+0x4fE0479F917B981A063Aa5372FEBCE5e50cC969A
 ```
 
 ABI:
